@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5368
     wikipedia: http://en.wikipedia.org/wiki/Anna_Laetitia_Barbauld
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14100#Eighteen-Hundred-and-Eleven
 gutenberg_issued: '2004-11-19'
 gutenberg_type: Text
 identifiers:
