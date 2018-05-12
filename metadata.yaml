@@ -1,0 +1,35 @@
+_repo: Eighteen-Hundred-and-Eleven_14100
+_version: 0.1.0
+alternative_title: '1811'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barbauld, Mrs. (Anna Letitia)
+    aliases:
+    - Barbauld, A. L. (Anna Letitia)
+    - Barbauld, Anna Laetitia
+    - Barbauld, Anna Letitia
+    - Barbauld, Anna Lætitia
+    - Aikin, Anna Laetitia
+    - Aikin, Anna Lætitia
+    birthdate: 1743
+    deathdate: 1825
+    gutenberg_agent_id: '5368'
+    url: http://www.gutenberg.org/2009/agents/5368
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Laetitia_Barbauld
+description: ''
+gutenberg_issued: '2004-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Poetry'
+title: Eighteen Hundred and Eleven
+url: http://www.gutenberg.org/ebooks/14100
